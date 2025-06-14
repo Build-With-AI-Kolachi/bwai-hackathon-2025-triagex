@@ -10,9 +10,9 @@ Welcome to the GDG Kolachi Build With AI Karachi 2025 - Hackathon - GitHub Class
 ## Checklist for Submission:
 __Please make sure to complete this checklist before submission.__
 > You can check the box by adding x in between [], i.e. [x], when editing README.md.
-- [x] Upload the video to YouTube or Google Drive and add the link here: <https://drive.google.com/file/d/1xSeGeval2X5SwI3LdB0GVZOqH64jxr9t/view?usp=drive_link>
-- [x ] Compile/run your project code and demonstrate the functionality along with input and output in the video: <https://drive.google.com/file/d/1oTa4V-Hx6ZiZ03_sKdqmDGlyTWnb1wBb/view?usp=drive_link>
-- [x ] Upload presentation (pitch deck) of your project: <https://docs.google.com/presentation/d/1wzzeqeq_aj1qpaFHWdyjaIYks-KfhpKnZd22FqPs4jU/edit?usp=sharing>
+- [x] Upload the video to YouTube or Google Drive and add the link here: <https://www.loom.com/share/3452a3857f654725b7d7c030a653bcb7>
+- [x] Compile/run your project code and demonstrate the functionality along with input and output in the video: <https://www.loom.com/share/15fc8d5db0a547c49f9aed858086642e>
+- [x] Upload presentation (pitch deck) of your project: <https://docs.google.com/presentation/d/1wzzeqeq_aj1qpaFHWdyjaIYks-KfhpKnZd22FqPs4jU/edit?usp=sharing>
 
 - [ x ] I have made sure all the links added are shareable and the content is accessible.
 
