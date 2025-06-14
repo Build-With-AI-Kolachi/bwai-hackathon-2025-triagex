@@ -12,7 +12,7 @@ __Please make sure to complete this checklist before submission.__
 > You can check the box by adding x in between [], i.e. [x], when editing README.md.
 - [ x] Upload the video to YouTube or Google Drive and add the link here: <https://drive.google.com/file/d/1xSeGeval2X5SwI3LdB0GVZOqH64jxr9t/view?usp=drive_link>
 - [x ] Compile/run your project code and demonstrate the functionality along with input and output in the video: <https://drive.google.com/file/d/1oTa4V-Hx6ZiZ03_sKdqmDGlyTWnb1wBb/view?usp=drive_link>
-- [x ] Upload presentation (pitch deck) of your project: <https://docs.google.com/presentation/d/1fd96CDBWkN7ueucHD2tbY5xoEM_WTX0k/edit?usp=drive_link&ouid=101622358145380978908&rtpof=true&sd=true>
+- [x ] Upload presentation (pitch deck) of your project: <https://docs.google.com/presentation/d/1wzzeqeq_aj1qpaFHWdyjaIYks-KfhpKnZd22FqPs4jU/edit?usp=sharing>
 
 - [ x ] I have made sure all the links added are shareable and the content is accessible.
 
