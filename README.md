@@ -1,66 +1,82 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/3gBSnj0I)
+<div align="center">
+  <img src="https://i.postimg.cc/KYsM8qbc/event-banner.png" width="100%">
+</div>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+# GDG Kolachi Build With AI 2025 - Hackathon - GitHub Classroom Assignment
 
-## About Laravel
+Welcome to the GDG Kolachi Build With AI Karachi 2025 - Hackathon - GitHub Classroom Assignment! In this hackathon, participants will have the opportunity to leverage Google's Generative AI tools to create innovative and sustainable solutions. Below are the guidelines and instructions for submitting your project.
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Checklist for Submission:
+__Please make sure to complete this checklist before submission.__
+> You can check the box by adding x in between [], i.e. [x], when editing README.md.
+- [ x] Upload the video to YouTube or Google Drive and add the link here: <https://drive.google.com/file/d/1xSeGeval2X5SwI3LdB0GVZOqH64jxr9t/view?usp=drive_link>
+- [x ] Compile/run your project code and demonstrate the functionality along with input and output in the video: <https://drive.google.com/file/d/1oTa4V-Hx6ZiZ03_sKdqmDGlyTWnb1wBb/view?usp=drive_link>
+- [x ] Upload presentation (pitch deck) of your project: <https://docs.google.com/presentation/d/1fd96CDBWkN7ueucHD2tbY5xoEM_WTX0k/edit?usp=drive_link&ouid=101622358145380978908&rtpof=true&sd=true>
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [ x ] I have made sure all the links added are shareable and the content is accessible.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## GDG Kolachi Build With AI 2025 - Hackathon - Overview
 
-## Learning Laravel
+GDG Kolachi Build With AI 2025 - Hackathon is a one-day hackathon aimed at fostering creativity and problem-solving using GenAI trends and Google products. Participants will build creative applications that utilize Google's Generative AI tools to address real-world challenges.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Who Can Participate?
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+- Industry professionals with domain expertise.
+- Developers proficient in coding and eager to explore GenAI trends.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+## What to Build?
 
-## Laravel Sponsors
+Develop a creative application utilizing Google’s Generative AI tools. Build, ship, and pitch your idea with Gemini!
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+## What to Submit?
 
-### Premium Partners
+1. A clear concept explaining your solution built with Gemini.
+2. A functional prototype.
+3. A 3-minute video showcasing your creation, publicly accessible on YouTube, Vimeo, or Facebook Video.
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
+## Rules and Guidelines
 
-## Contributing
+- All project work must be completed during the hackathon.
+- Teams can comprise 2 to 4 members and must be formed before the event.
+- Projects must utilize Google's generative products/APIs.
+- The hackathon will consist of three phases: ideation, prototyping, and submission.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## Submission Instructions
 
-## Code of Conduct
+- The hackathon begins at 10PM on June 14th and ends at 7PM on June 14th with no extensions.
+- Teams must submit their final projects via GitHub repositories provided.
+- Include the deployed solution along with the code.
+- Submit a short video explaining the solution.
+- If shortlisted, teams will pitch their solution to judges and complete a submission form.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+## Judging Criteria
 
-## Security Vulnerabilities
+- Problem Alignment
+- GenAI Tool Integration
+- Coding Excellence
+- Scalability and Sustainability
+- User Experience
+- Integration With Google Products
+- Seamless Integration
+- Disruptive Potential and Social Impact
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## Prizes
 
-## License
+- Winner: 50k
+- Runner-up: 30k
+- Most Impactful Project: 20k
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+## FAQs
+
+- The hackathon is open to anyone interested in AI and technology.
+- No prior AI experience is required; mentors will provide support.
+- Participants should bring laptops, chargers, and a creative mindset.
+- Projects must utilize Google's Generative AI tools and APIs.
+- The hackathon will be structured in three phases: ideation, prototyping, and submission.
+- Projects will be judged based on various criteria including problem alignment and user experience.
+- Winning teams will receive cash prizes and recognition.
+
+Let's build with AI and unleash creativity! 🚀🤖
+
+Learn More About GDG Kolachi Build With AI 2025 at [ai.gdgkolachi.com](https://ai.gdgkolachi.com)
