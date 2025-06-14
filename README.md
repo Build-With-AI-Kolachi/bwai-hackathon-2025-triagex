@@ -14,7 +14,7 @@ __Please make sure to complete this checklist before submission.__
 - [x] Compile/run your project code and demonstrate the functionality along with input and output in the video: <https://www.loom.com/share/15fc8d5db0a547c49f9aed858086642e>
 - [x] Upload presentation (pitch deck) of your project: <https://docs.google.com/presentation/d/1wzzeqeq_aj1qpaFHWdyjaIYks-KfhpKnZd22FqPs4jU/edit?usp=sharing>
 
-- [ x ] I have made sure all the links added are shareable and the content is accessible.
+- [x] I have made sure all the links added are shareable and the content is accessible.
 
 ## GDG Kolachi Build With AI 2025 - Hackathon - Overview
 
